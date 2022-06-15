@@ -1,0 +1,23 @@
+{
+  "name": "pag-kevin",
+  "version": "1.0.0",
+  "description": "un paquete de sass para la 36360",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroRabbia/proyectocoder.git"
+  },
+  "author": "Pedro Rabbia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroRabbia/proyectocoder/issues"
+  },
+  "homepage": "https://github.com/PedroRabbia/proyectocoder#readme",
+  "devDependencies": {
+    "no": "^0.0.1",
+    "node-sass": "^7.0.1"
+  }
+}
